@@ -27,6 +27,7 @@ AF:
   world_region: APAC
   un_locode: AF
   languages:
+  - en
   - ps
   - uz
   - tk

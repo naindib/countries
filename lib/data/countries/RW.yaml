@@ -27,8 +27,8 @@ RW:
   world_region: EMEA
   un_locode: RW
   languages:
-  - rw
   - en
+  - rw
   - fr
   nationality: Rwandan
   postal_code: false

@@ -29,6 +29,7 @@ ET:
   world_region: EMEA
   un_locode: ET
   languages:
+  - en
   - am
   nationality: Ethiopian
   postal_code: true

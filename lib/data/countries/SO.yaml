@@ -28,8 +28,8 @@ SO:
   world_region: EMEA
   un_locode: SO
   languages:
-  - so
   - ar
+  - so
   nationality: Somali
   postal_code: false
   min_longitude: '41'

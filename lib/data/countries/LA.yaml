@@ -26,6 +26,7 @@ LA:
   world_region: APAC
   un_locode: LA
   languages:
+  - fr
   - lo
   nationality: Laotian
   postal_code: true

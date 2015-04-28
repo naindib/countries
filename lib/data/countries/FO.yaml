@@ -29,6 +29,7 @@ FO:
   world_region: EMEA
   un_locode: FO
   languages:
+  - da
   - fo
   nationality: Faroese
   postal_code: true

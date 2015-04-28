@@ -28,6 +28,7 @@ MV:
   world_region: APAC
   un_locode: MV
   languages:
+  - en
   - dv
   nationality: Maldivan
   postal_code: true

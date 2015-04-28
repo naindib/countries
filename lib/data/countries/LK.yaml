@@ -25,6 +25,7 @@ LK:
   world_region: APAC
   un_locode: LK
   languages:
+  - en
   - si
   - ta
   nationality: Sri Lankan

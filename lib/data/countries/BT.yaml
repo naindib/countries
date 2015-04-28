@@ -28,6 +28,7 @@ BT:
   world_region: APAC
   un_locode: BT
   languages:
+  - en
   - dz
   nationality: Bhutanese
   postal_code: true

@@ -28,8 +28,8 @@ KZ:
   world_region: EMEA
   un_locode: KZ
   languages:
-  - kk
   - ru
+  - kk
   nationality: Kazakhstani
   postal_code: true
   min_longitude: '46.589722'

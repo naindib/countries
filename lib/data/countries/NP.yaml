@@ -28,6 +28,7 @@ NP:
   world_region: APAC
   un_locode: NP
   languages:
+  - en
   - ne
   nationality: Nepalese
   postal_code: true

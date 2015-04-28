@@ -33,6 +33,7 @@ IL:
   world_region: EMEA
   un_locode: IL
   languages:
+  - en
   - he
   - ar
   nationality: Israeli

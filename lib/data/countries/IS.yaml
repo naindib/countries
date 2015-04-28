@@ -36,6 +36,7 @@ IS:
   world_region: EMEA
   un_locode: IS
   languages:
+  - en
   - is
   nationality: Icelander
   postal_code: true

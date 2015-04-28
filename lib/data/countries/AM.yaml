@@ -28,8 +28,8 @@ AM:
   world_region: EMEA
   un_locode: AM
   languages:
-  - hy
   - ru
+  - hy
   nationality: Armenian
   postal_code: true
   min_longitude: '43.4425'

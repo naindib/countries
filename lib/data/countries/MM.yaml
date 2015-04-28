@@ -26,6 +26,7 @@ MM:
   world_region: APAC
   un_locode: MM
   languages:
+  - en
   - my
   nationality: Myanmarian
   postal_code: true

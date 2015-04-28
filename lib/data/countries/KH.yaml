@@ -29,6 +29,7 @@ KH:
   world_region: APAC
   un_locode: KH
   languages:
+  - en
   - km
   nationality: Cambodian
   postal_code: true
