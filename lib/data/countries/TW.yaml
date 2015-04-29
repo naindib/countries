@@ -32,7 +32,7 @@ TW:
   world_region: APAC
   un_locode: TW
   languages:
-  - zh
+  - zh-TW
   nationality: Taiwanese
   postal_code: true
   min_longitude: '118.1152555661'

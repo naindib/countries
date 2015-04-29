@@ -26,8 +26,8 @@ WS:
   world_region: APAC
   un_locode: WS
   languages:
-  - sm
   - en
+  - sm
   nationality: Samoan
   postal_code: true
   min_longitude: "-172.816667"

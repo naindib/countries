@@ -4,7 +4,7 @@ TM:
   alpha2: TM
   alpha3: TKM
   country_code: '993'
-  currency: 
+  currency: TMT
   international_prefix: '810'
   ioc: TKM
   gec: TX
@@ -27,8 +27,8 @@ TM:
   world_region: EMEA
   un_locode: TM
   languages:
-  - tk
   - ru
+  - tk
   nationality: Turkmen
   postal_code: true
   min_longitude: '52.5'

@@ -30,8 +30,8 @@ KG:
   world_region: EMEA
   un_locode: KG
   languages:
-  - ky
   - ru
+  - ky
   nationality: Kirghiz
   postal_code: true
   min_longitude: '69.333333'

@@ -35,7 +35,7 @@ CN:
   world_region: APAC
   un_locode: CN
   languages:
-  - zh
+  - zh-CN
   nationality: Chinese
   postal_code: true
   min_longitude: '106.7'

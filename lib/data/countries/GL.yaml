@@ -33,7 +33,7 @@ GL:
   world_region: EMEA
   un_locode: GL
   languages:
-  - kl
+  - da
   nationality: Greenlandic
   postal_code: true
   min_longitude: "-73.05"

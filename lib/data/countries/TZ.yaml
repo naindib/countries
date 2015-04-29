@@ -28,8 +28,8 @@ TZ:
   world_region: EMEA
   un_locode: TZ
   languages:
-  - sw
   - en
+  - sw
   nationality: Tanzanian
   postal_code: false
   min_longitude: '29.583333'

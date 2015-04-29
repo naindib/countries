@@ -36,8 +36,8 @@ ZA:
   world_region: EMEA
   un_locode: ZA
   languages:
-  - af
   - en
+  - af
   - nr
   - st
   - ss

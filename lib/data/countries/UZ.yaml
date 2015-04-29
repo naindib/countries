@@ -29,8 +29,8 @@ UZ:
   world_region: EMEA
   un_locode: UZ
   languages:
-  - uz
   - ru
+  - uz
   nationality: Uzbekistani
   postal_code: true
   min_longitude: '56.083333'

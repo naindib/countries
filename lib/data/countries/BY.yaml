@@ -30,8 +30,8 @@ BY:
   world_region: EMEA
   un_locode: BY
   languages:
-  - be
   - ru
+  - be
   nationality: Belarusian
   postal_code: true
   min_longitude: '22.55'

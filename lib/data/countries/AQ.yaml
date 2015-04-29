@@ -4,7 +4,7 @@ AQ:
   alpha2: AQ
   alpha3: ATA
   country_code: '672'
-  currency: 
+  currency: USD
   international_prefix: ''
   ioc: 
   gec: AY
@@ -25,7 +25,8 @@ AQ:
   region: ''
   subregion: ''
   un_locode: AQ
-  languages: []
+  languages: 
+  - en
   nationality: ''
   postal_code: true
   min_longitude: 

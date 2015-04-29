@@ -29,8 +29,8 @@ MY:
   world_region: APAC
   un_locode: MY
   languages:
-  - ms
   - en
+  - ms
   nationality: Malaysian
   postal_code: true
   min_longitude: '99.641277'

@@ -23,7 +23,8 @@ BV:
   region: ''
   subregion: ''
   un_locode: 
-  languages: []
+  languages: 
+  - en
   nationality: ''
   postal_code: true
   world_region: APAC
